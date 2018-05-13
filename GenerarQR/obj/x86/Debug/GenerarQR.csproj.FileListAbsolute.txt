@@ -1,0 +1,9 @@
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\bin\Debug\GenerarQR.exe
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\bin\Debug\GenerarQR.pdb
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\bin\Debug\Gma.QrCodeNet.Encoding.dll
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.frm_principal.resources
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.Properties.Resources.resources
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.csproj.GenerateResource.Cache
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.exe
+c:\users\embedded\documents\visual studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.pdb
+C:\Users\embedded\Documents\Visual Studio 2010\Projects\GenerarQR\GenerarQR\obj\x86\Debug\GenerarQR.csprojResolveAssemblyReference.cache
