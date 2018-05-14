@@ -1,11 +1,9 @@
-# generar-codigoQr-csharp
+# how generate qr code with csharp
 
-Rápido y limpio
+If is necesary add Gma.QrCodeNet.Encoding.dll to the project 
 
-//Primer paso
--Agregar la referencia Gma.QrCodeNet.Encoding.dll que está dentro del proyecto
+Use the references:
 
-//Segundo y último paso usar las siguientes referencias en el frm_principal
 using Gma.QrCodeNet.Encoding;
 using Gma.QrCodeNet.Encoding.Windows.Render;
 using System.IO;
